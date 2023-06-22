@@ -8,7 +8,7 @@ def amortization_table(loan_amount, yearly_interest_rate, number_of_year):
     principle_balance = loan_amount
     monthly_payment = amortization(loan_amount,monthly_interest_rate,number_of_month)
 
-    print('No,', '|', 'Payment Due','|', 'Interest Due','Principle Due','|','Principle Balance')
+    print('No,', '|', 'Payment Due','|', 'Interest Due','|','Principle Due','|','Principle Balance')
     print("------------------------------------------------------")
 
     i = 1
