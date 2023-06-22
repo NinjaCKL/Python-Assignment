@@ -1,3 +1,5 @@
+#Chea Kimleang 60-19-05-79
+#Exercise9 B
 #Example of removing duplicated value
 
 my_list = [1,2,3,4,5,5]

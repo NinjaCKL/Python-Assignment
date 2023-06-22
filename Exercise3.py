@@ -1,3 +1,4 @@
+#Chea Kimleang 60-19-05-79
 loan_amount = int(input("Please amount of loan that you borrow : "))
 i = float(input('The interest rate (per year) of the bank : '))
 n = int(input("How many year to pay the loan : "))

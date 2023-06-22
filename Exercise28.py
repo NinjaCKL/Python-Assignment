@@ -1,3 +1,5 @@
+#Chea Kimleang 60-19-05-79
+
 class Person:
     def __init__(self, name_para, age_para):
         self.name = name_para
@@ -14,7 +16,7 @@ class Student(Person):
 
 costStudent = Student('Chea Kimleang', '21')
 costStudent.major = 'Information Technology'
-costStudent.studentID = '603656'
+costStudent.studentID = '60-19-05-79'
 
 print(costStudent.greet())
 costStudent.showInfo()

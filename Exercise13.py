@@ -1,6 +1,7 @@
+#Chea Kimleang 60-19-05-79
+
 BASE_HOUR = 40
 OT_MULTIPLIER = 2
-
 hours = float(input('Enter the number of hours worked : '))
 pay_rate = float(input('Enter the hourly pay rate: '))
 

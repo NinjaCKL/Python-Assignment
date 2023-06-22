@@ -1,13 +1,13 @@
+#Chea Kimleang 60-19-05-79
+
 def amortization (loan_amount,i,n):
     payment = loan_amount*((i*(1+i)**n) / (((1+i)**n) - 1 ))
     return payment
-    
 def amortization_table(loan_amount, yearly_interest_rate, number_of_year):
     monthly_interest_rate = yearly_interest_rate / 12
     number_of_month = number_of_year * 12
     principle_balance = loan_amount
     monthly_payment = amortization(loan_amount,monthly_interest_rate,number_of_month)
-
     print('No,', '|', 'Payment Due','|', 'Interest Due','|','Principle Due','|','Principle Balance')
     print("------------------------------------------------------")
 

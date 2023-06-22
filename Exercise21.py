@@ -1,3 +1,5 @@
+#Chea Kimleang 60-19-05-79
+
 def total(*numbers):
     sum = 0
     for number in numbers:

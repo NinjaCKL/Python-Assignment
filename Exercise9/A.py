@@ -1,3 +1,5 @@
+#Chea Kimleang 60-19-05-79
+#Exercise9 A
 #Example of find a member in a set
 
 my_set = {1,2,3,4,5}

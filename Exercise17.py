@@ -1,3 +1,5 @@
+#Chea Kimleang 60-19-05-79
+
 total = 0 
 number = int(input('Enter a number : '))
 

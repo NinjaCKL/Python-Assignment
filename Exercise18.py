@@ -1,5 +1,6 @@
-student_marks = []
+#Chea Kimleang 60-19-05-79
 
+student_marks = []
 for i in range(5):
     mark = float(input("Enter student mark : "))
     student_marks.append(mark)
